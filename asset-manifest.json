@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.bfb94c16.css",
-    "main.js": "/static/js/main.55835335.js",
+    "main.js": "/static/js/main.602b038b.js",
     "static/media/AkashPP.png": "/static/media/AkashPP.a39d230a8c0a0b455375.png",
     "index.html": "/index.html",
     "main.bfb94c16.css.map": "/static/css/main.bfb94c16.css.map",
-    "main.55835335.js.map": "/static/js/main.55835335.js.map"
+    "main.602b038b.js.map": "/static/js/main.602b038b.js.map"
   },
   "entrypoints": [
     "static/css/main.bfb94c16.css",
-    "static/js/main.55835335.js"
+    "static/js/main.602b038b.js"
   ]
 }
