@@ -1,0 +1,29 @@
+# Uttom Akash
+
+> Senior Software Engineer specializing in high-performance storage engines, distributed systems, and cloud-native architectures. 5+ years of experience working across Rust, Go, C++, and the JVM ecosystem on storage engines, databases, distributed transactions, microservices, WASM, and PDF tooling.
+
+Site: https://meshcort.com
+
+## Profile
+- Role: Senior Software Engineer (currently at Iron Software, Thailand)
+- Education: B.Sc. in Software Engineering, Shahjalal University of Science and Technology (SUST), CGPA 3.72/4.00, 4th in department
+- Expertise: Storage & Databases, Distributed and Embedded Systems, Cloud & Microservices, Generative AI & RAG, Full-stack Development, DevOps, Blockchain
+- Languages: C++, Rust, Go, C#, Java, Python, JavaScript
+
+## Pages
+- [Home](https://meshcort.com/): Overview, publications, experience, education, and blog highlights
+- [Experience](https://meshcort.com/experience): Roles at Iron Software, AnyDesk Software, and Cefalo Bangladesh Ltd
+- [Projects](https://meshcort.com/projects): Open-source projects including VectorXLite, Distributed Consensus File System, Crudify ORM, QPDF Transformer, Rate Limiter Service
+- [Publications](https://meshcort.com/publications): Peer-reviewed research, including "An event-driven and lightweight proactive autoscaling architecture for cloud applications" (IJGUC, 2023)
+- [Blog](https://meshcort.com/blog): Technical writing on distributed systems and backend engineering
+- [Skills](https://meshcort.com/skills): Languages, frameworks, DevOps, databases, and tools
+- [Education](https://meshcort.com/education): Academic background
+- [News](https://meshcort.com/news): Recent activity and posts
+- [Contact](https://meshcort.com/contact): Email and social links
+
+## External Links
+- GitHub: https://github.com/uttom-akash
+- LinkedIn: https://linkedin.com/in/uttom-akash
+- Medium: https://medium.com/@akash2077
+- Email: uttom.akash71@gmail.com
+- Research: uttom.akash.research@gmail.com
