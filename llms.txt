@@ -14,12 +14,18 @@ Site: https://meshcort.com
 - [Home](https://meshcort.com/): Overview, publications, experience, education, and blog highlights
 - [Experience](https://meshcort.com/experience): Roles at Iron Software, AnyDesk Software, and Cefalo Bangladesh Ltd
 - [Projects](https://meshcort.com/projects): Open-source projects including VectorXLite, Distributed Consensus File System, Crudify ORM, QPDF Transformer, Rate Limiter Service
+- [Open Source Contributions](https://meshcort.com/open-source): Issues and pull requests upstreamed to projects maintained by others — Ministack (local AWS emulator), SlateDB (Rust cloud-native storage engine), and cloud autoscaling simulation research
 - [Publications](https://meshcort.com/publications): Peer-reviewed research, including "An event-driven and lightweight proactive autoscaling architecture for cloud applications" (IJGUC, 2023)
 - [Blog](https://meshcort.com/blog): Technical writing on distributed systems and backend engineering
 - [Skills](https://meshcort.com/skills): Languages, frameworks, DevOps, databases, and tools
 - [Education](https://meshcort.com/education): Academic background
 - [News](https://meshcort.com/news): Recent activity and posts
 - [Contact](https://meshcort.com/contact): Email and social links
+
+## Open Source Contributions (to projects owned by others)
+- Ministack (Python, local AWS emulator): reported that the ALB data plane buffered streaming target responses (issue #1392) and fixed it (PR #1393, merged) — time-to-first-byte 11.28s to 0.004s
+- SlateDB (Rust, cloud-native storage engine on object storage): merged fix for a divide-by-zero panic when probing a zero-bit prefix Bloom filter (PR #1969); open PR extending the retry policy to multipart part uploads via the low-level MultipartStore API (PR #1992)
+- AutoCloudScaleSimulation / AutoScaleSim (Java, cloud autoscaling research): exponential smoothing predictors and adaptive scaling platform underpinning the IJGUC 2023 publication
 
 ## External Links
 - GitHub: https://github.com/uttom-akash
